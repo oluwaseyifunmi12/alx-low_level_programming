@@ -1,1 +1,1 @@
-# alx-low_level_programming
+This is introduction to c mid-level programming language
