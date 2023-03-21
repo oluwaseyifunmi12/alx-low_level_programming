@@ -6,6 +6,7 @@
  * @name: parameter 1
  * @age: parameter 2
  * @owner: parameter 3
+ * dog_t - name change with typedef
  */
 
 typedef struct dog 
