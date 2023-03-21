@@ -8,7 +8,7 @@
  * @owner: parameter 3
  */
 
-struct dog 
+struct dog
 {
 	char *name;
 	float age;
