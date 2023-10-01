@@ -8,7 +8,7 @@
  * Return: the factorial of the number
  */
 
-int factorial(n)
+int factorial(int n)
 {
 	if (n < 0)
 		return (-1);
