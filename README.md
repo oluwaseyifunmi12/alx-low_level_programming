@@ -1,1 +1,1 @@
-This is introduction to c mid-level programming language
+Learning memory allocation
