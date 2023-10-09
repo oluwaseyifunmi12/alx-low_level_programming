@@ -3,7 +3,7 @@
 
 /**
  * array_range - a funkion that creates an array of integers.
- * 
+ *
  * @min: minimum value to be created
  * @max: maximum value to be created
  *
@@ -23,8 +23,10 @@ int *array_range(int min, int max)
 	if (ptr == NULL)
 		return (NULL);
 
-	for (i = 0; min <= max; i++, min++)
+	for (i = 0; min <= max; i++)
+	{
+		min++
 		ptr[i] = min;
-
+	}
 	return (ptr);
 }
