@@ -2,9 +2,9 @@
 
 /**
  * main - Function that prints the name of its file
- * 
+ *
  * description : name of file
- * 
+ *
  * Return: (0); success
  */
 
