@@ -2,7 +2,7 @@
 #define _SUM_H_
 
 
-#define SUM(X, Y) ((x) + (y))
+#define SUM(x, y) ((x) + (y))
 
 
 #endif
