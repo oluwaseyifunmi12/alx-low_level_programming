@@ -1,6 +1,14 @@
 #include <stdio.h>
 #include "dog.h"
 
+/**
+ * print_dog - a function to print dong details
+ *
+ * @d: dog details
+ *
+ * Return: Nothing
+ */
+
 void print_dog(struct dog *d)
 {
 	if (d)
