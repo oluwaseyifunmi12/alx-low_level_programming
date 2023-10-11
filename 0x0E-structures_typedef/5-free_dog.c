@@ -3,7 +3,7 @@
 
 /**
  * free_dog -  a function that frees dogs.
- * 
+ *
  * @d: dog details
  *
  * Return: nothing
