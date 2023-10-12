@@ -1,1 +1,1 @@
-Learning memory allocation
+Learning memory allocation.
