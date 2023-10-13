@@ -1,1 +1,1 @@
-Learning memory allocation
+working on structures and types
