@@ -9,10 +9,13 @@
 
 unsigned int binary_to_uint(const char *b)
 {
+
+	unsigned int decimal;
+
 	if (b == NULL)
 	return (0);
 
-	unsigned int decimal = 0;
+	decimal = 0;
 
 	while (*b != '\0')
 	{
