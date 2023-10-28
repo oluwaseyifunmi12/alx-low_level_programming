@@ -16,7 +16,7 @@ int clear_bit(unsigned long int *n, unsigned int index)
 		return (-1);
 	}
 
-	shift = 1UL << index; 
+	shift = 1UL << index;
 	*n = (*n & ~shift);
 
 	return (1);
